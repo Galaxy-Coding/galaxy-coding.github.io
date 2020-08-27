@@ -59,6 +59,11 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
+  background-image: url("images/0E608AA7-9498-4F17-B6FB-97973B7D86B2.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  
 }
 
 .notfound p {
