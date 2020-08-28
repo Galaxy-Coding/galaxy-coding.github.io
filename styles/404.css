@@ -44,11 +44,6 @@ body {
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
-  background: url('images/0E608AA7-9498-4F17-B6FB-97973B7D86B2.jpeg') no-repeat;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-size: cover;
-  background-position: center;
 }
 
 
